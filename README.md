@@ -1,5 +1,5 @@
 # financial_data_analysis
-#Description:
+Description:
 
 This GitHub repository hosts the Sales and Profit Analysis project, which delves into the sales and profit data of a fictional company across various regions, products, and segments. The project encompasses data cleaning, exploratory data analysis (EDA), visualization, and insights generation to understand key factors affecting sales and profitability.
 
